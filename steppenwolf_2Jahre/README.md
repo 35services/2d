@@ -15,6 +15,7 @@ Im Ordner [input](input) sind alle verwendeten Dateien.
  * https://wiki.evilmadscientist.com/Hershey_Text für die "2 Jahre"
  * Axi Draw V3
  * ein "Standard Fine Tip Sharpie® Marker"
+ * I should have downloaded https://velvetyne.fr/fonts/basteleur/
 
 Hier das Resultat:
 ![](resultat_in_der_werkstatt.jpg)
