@@ -10,6 +10,7 @@ Im Ordner [input](input) sind alle verwendeten Dateien.
  ## Tools:
  * Super Vectorizer (Mac App Store) - Es gibt wohl nur noch die [Pro Version](https://www.svgvector.com/)
  * Vinlio (Mac) [https://apps.apple.com/de/app/vinilo-crafting/id1554518531](https://apps.apple.com/de/app/vinilo-crafting/id1554518531)
+ * https://wiki.evilmadscientist.com/Hershey_Text für die "2 Jahre"
  * Axi Draw V3
  * ein "Standard Fine Tip Sharpie® Marker"
 
