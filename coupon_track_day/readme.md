@@ -6,8 +6,7 @@ to Gemini
 generated this
 ![](Gemini_Generated_Image_pygo5spygo5spygo.png)
 
-Super Vectorizer
-
+Super Vectorizer (actual values are lost, I think it was `3` three or `4` four colors)
 ![](Screenshot_2025-12-23_at_01.18.02.png)
 
 returned this:
