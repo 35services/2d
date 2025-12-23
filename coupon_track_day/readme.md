@@ -7,3 +7,11 @@ generated this
 ![](Gemini_Generated_Image_pygo5spygo5spygo.png)
 
 Super Vectorizer
+
+![](Screenshot 2025-12-23 at 01.18.02.png)
+
+returned this:
+![](susi.svg)
+
+removed the background and cleaned it up:
+![](axi_documemt.svg)
