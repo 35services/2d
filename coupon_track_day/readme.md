@@ -8,7 +8,7 @@ generated this
 
 Super Vectorizer
 
-![](Screenshot 2025-12-23 at 01.18.02.png)
+![](Screenshot_2025-12-23_at_01.18.02.png)
 
 returned this:
 ![](susi.svg)
