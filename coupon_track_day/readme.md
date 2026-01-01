@@ -2,7 +2,7 @@
 
 A coupon for [suzzzzzz_artistique](https://www.instagram.com/suzzzzzz_artistique/) for a day on the track.
 
-# Result
+# Result (quicklink)
 
 Navigate to [#result](#result)
 
