@@ -12,6 +12,9 @@
  * https://www.instagram.com/eitanrieger Künstler, motion lab, xhain
  * https://www.stridsland.com/shop/rsdw-sticker/ sticker fürs Rad
  * https://www.hobbyplotter.de/hobbys/3dimensionales/ https://plottix.de/hilfe/anleitung-papier/ https://www.fadenstark.de/290102120210/plott_papier_pappe
+ * https://www.mamahoch2.de/2016/09/was-man-mit-dem-plotter-alles-machen-kann-3d-basteleien.html
+ * "plotter hacks" auf Pinterest
+ * 
 
 ideas:
 - tape things off, let it rust/paint it, peel off
