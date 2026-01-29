@@ -22,3 +22,4 @@ ideas:
 - Visitenkarten
 - Siebdruck mit plotten
   - https://www.instagram.com/reel/DTA21gilZ9a/?igsh=MTZ0MXQ3MHlhdXFsaA==
+  - 3d badman diorama https://www.instagram.com/reel/DTe2aCiDCQW/?igsh=https
