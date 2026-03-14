@@ -1,3 +1,8 @@
+TODO cricut with universal adapter 
+
+https://youtube.com/shorts/Xb1vH7O8xdE?is=t2lZu5ZVZFAEMOQH
+
+
 
 
 * Happy lab
